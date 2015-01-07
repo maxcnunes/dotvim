@@ -16,6 +16,7 @@ Plugin 'scrooloose/nerdtree'		" file system explorer
 Plugin 'kien/ctrlp.vim' 		" fuzzy file finder
 Plugin 'editorconfig/editorconfig-vim' 	" editor config
 Plugin 'rking/ag.vim'			" search
+Plugin 'altercation/vim-colors-solarized' 	" color scheme
 
 
 
