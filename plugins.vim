@@ -45,3 +45,16 @@ augroup ft_gitx
   autocmd User Fugitive command! -buffer Gstage call s:GitX('-c')
   autocmd User Fugitive noremap <buffer> <leader>gt :Gstage<cr>
 augroup END
+
+
+""""""""""""""""""""""""""""""
+" silver searcher
+""""""""""""""""""""""""""""""
+" Use ag over grep
+let g:agprg="ag\ --nogroup\ --nocolor\ --column"
+
+" Use ag in CtrlP for listing files. Lightning fast and respects .gitignore
+let g:ctrlp_user_command = 'ag %s -l --nocolor -g ""'
+
+" ag is fast enough that CtrlP doesn't need to cache
+let g:ctrlp_use_caching = 0
