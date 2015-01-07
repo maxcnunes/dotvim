@@ -9,13 +9,13 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 
-Plugin 'bling/vim-airline'		" status line
-Plugin 'tpope/vim-fugitive'		" git wrapper 
-Plugin 'airblade/vim-gitgutter'		" git status
-Plugin 'scrooloose/nerdtree'		" file system explorer
-Plugin 'kien/ctrlp.vim' 		" fuzzy file finder
-Plugin 'editorconfig/editorconfig-vim' 	" editor config
-Plugin 'rking/ag.vim'			" search
+Plugin 'bling/vim-airline'			" status line
+Plugin 'tpope/vim-fugitive'			" git wrapper 
+Plugin 'airblade/vim-gitgutter'			" git status
+Plugin 'scrooloose/nerdtree'			" file system explorer
+Plugin 'kien/ctrlp.vim' 			" fuzzy file finder
+Plugin 'editorconfig/editorconfig-vim' 		" editor config
+Plugin 'rking/ag.vim'				" search
 Plugin 'altercation/vim-colors-solarized' 	" color scheme
 
 
