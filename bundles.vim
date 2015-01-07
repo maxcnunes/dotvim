@@ -17,6 +17,7 @@ Plugin 'kien/ctrlp.vim' 			" fuzzy file finder
 Plugin 'editorconfig/editorconfig-vim' 		" editor config
 Plugin 'rking/ag.vim'				" search
 Plugin 'altercation/vim-colors-solarized' 	" color scheme
+Plugin 'Lokaltog/vim-easymotion'		" simple search
 
 
 
