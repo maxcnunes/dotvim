@@ -19,6 +19,7 @@ Plugin 'rking/ag.vim'				" search
 Plugin 'flazz/vim-colorschemes'		 	" color scheme
 Plugin 'Lokaltog/vim-easymotion'		" simple search
 Plugin 'Shutnik/jshint2.vim'			" js syntax validations
+Plugin 'brettof86/vim-swigjs'			" swig syntax
 
 
 
