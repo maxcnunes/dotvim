@@ -11,5 +11,7 @@ set background=dark
 color grb256
 colorscheme monokain
 
+set hlsearch		" highlight search terms
+
 " toggle paste mode
 nnoremap <leader>p :set invpaste paste?<CR>
