@@ -13,5 +13,11 @@ colorscheme monokain
 
 set hlsearch		" highlight search terms
 
+
+" Gathers vim files
+set backupdir=~/.vim/.backup//
+set directory=~/.vim/.swap//
+set undodir=~/.vim/.undo//
+
 " toggle paste mode
 nnoremap <leader>p :set invpaste paste?<CR>

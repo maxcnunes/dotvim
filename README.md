@@ -19,6 +19,7 @@ Clone this repository into your home directory as ~/.vim and then install the pl
 ```bash
 git clone git@github.com:maxcnunes/dotvim.git ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
+mkdir -p ~/.vim/{.backup,.swap,.undo}
 ```
 
 In order to keep simple installing and updating plugins. Lets clone [Vundle](https://github.com/gmarik/Vundle.vim) and use it to install all plugins:
