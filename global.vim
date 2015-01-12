@@ -22,3 +22,9 @@ set undodir=~/.vim/.undo//
 
 " toggle paste mode
 nnoremap <leader>p :set invpaste paste?<CR>
+nmap <c-s> :w<CR>					" Ctrl+S to save current file in normal mode
+vmap <c-s> <Esc><c-s>gv					" Ctrl+S to save current file in visual mode
+imap <c-s> <Esc>:w<CR>					" Ctrl+S to save current file in insert mode
+
+map <c-q> :q<CR>					" Ctrl+Q to quit current window
+nmap <C-Q> :q<CR>
