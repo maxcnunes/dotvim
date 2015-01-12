@@ -22,7 +22,8 @@ let g:ctrlp_max_depth = 5
 """"""""""""""""""""""""""""""
 " nerdtree
 """"""""""""""""""""""""""""""
-noremap <silent> <Leader>t :NERDTreeToggle<Return>
+noremap <silent> <Leader>t :NERDTreeToggle<Return>	" toggle treeview 
+noremap <silent> <Leader>f :NERDTreeFind<Return>	" find file
 let NERDTreeHighlightCursorline=1
 let NERDTreeIgnore = ['tmp']
 
