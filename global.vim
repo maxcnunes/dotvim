@@ -28,3 +28,6 @@ imap <c-s> <Esc>:w<CR>					" Ctrl+S to save current file in insert mode
 
 map <c-q> :q<CR>					" Ctrl+Q to quit current window
 nmap <C-Q> :q<CR>
+
+set textwidth=120
+set colorcolumn=+1
