@@ -38,6 +38,14 @@ brew install the_silver_searcher
 ```
 
 
+# Saving with Ctrl+s
+
+To allow Ctrl+S works on ZSH have to include this alias on `.zshrc`:
+
+```bash
+alias vim="stty stop '' -ixoff -ixon; vim"
+```
+
 ## References
 
 Based on few existig vim configuration projects:
