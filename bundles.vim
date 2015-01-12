@@ -21,6 +21,8 @@ Plugin 'Lokaltog/vim-easymotion'		" simple search
 Plugin 'Shutnik/jshint2.vim'			" js syntax validations
 Plugin 'brettof86/vim-swigjs'			" swig syntax
 Plugin 'gabrielelana/vim-markdown'		" markdown syntax
+Plugin 'terryma/vim-multiple-cursors'		" multiple cursors
+Plugin 'tomasr/molokai'
 
 
 
