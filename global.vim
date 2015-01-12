@@ -12,6 +12,7 @@ color grb256
 colorscheme monokain
 
 set hlsearch		" highlight search terms
+set list listchars=tab:»·,trail:·	" show hidden tabs and white spaces
 
 
 " Gathers vim files
