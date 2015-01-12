@@ -4,3 +4,6 @@ spell
 bundle/
 .swp
 *.swp
+.backup
+.swap
+.undo
