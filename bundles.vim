@@ -9,7 +9,8 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 
-Plugin 'bling/vim-airline'			" status line
+Plugin 'vim-airline/vim-airline'		" status line
+Plugin 'vim-airline/vim-airline-themes'		" status line theme
 Plugin 'tpope/vim-fugitive'			" git wrapper 
 Plugin 'airblade/vim-gitgutter'			" git status
 Plugin 'scrooloose/nerdtree'			" file system explorer
