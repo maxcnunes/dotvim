@@ -9,6 +9,9 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 
+Plugin 'othree/yajs.vim'	" js highlight theme
+Plugin 'othree/es.next.syntax.vim'	" es7 highlight theme
+Plugin 'scrooloose/syntastic'	" linter
 Plugin 'vim-airline/vim-airline'		" status line
 Plugin 'vim-airline/vim-airline-themes'		" status line theme
 Plugin 'tpope/vim-fugitive'			" git wrapper 
