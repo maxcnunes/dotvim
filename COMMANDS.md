@@ -8,3 +8,9 @@ VIM Commands
 
 ## Visual Mode
 - `/g/<search>/<command>`: operate over selection (eg. `/g/console/d`)
+
+
+
+
+- `"*y`: copy to clipboard
+- `"*p`: paste to clipboard
