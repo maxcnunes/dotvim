@@ -12,6 +12,10 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'othree/yajs.vim'	" js highlight theme
 Plugin 'othree/es.next.syntax.vim'	" es7 highlight theme
 Plugin 'scrooloose/syntastic'	" linter
+"Plugin 'chriskempson/base16-vim'	" base16 theme
+"Plugin 'trusktr/seti.vim'	" seti theme
+"Plugin 'w0ng/vim-hybrid'	" hybrid theme
+Plugin 'altercation/vim-colors-solarized'	" solarized theme
 Plugin 'vim-airline/vim-airline'		" status line
 Plugin 'vim-airline/vim-airline-themes'		" status line theme
 Plugin 'tpope/vim-fugitive'			" git wrapper 

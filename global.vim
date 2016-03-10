@@ -4,15 +4,26 @@ syntax on
 filetype plugin indent on
 
 let mapleader = ","			" map leader key to ','
+"set term=xterm-256color
+set termencoding=utf-8
 
 """"""""""""""""""""""""""""""
 " Appearance
 """"""""""""""""""""""""""""""
-set t_Co=256 " 256 colors
+set t_Co=256 " Explicitly tell vim that the terminal supports 256 colors"
 set background=dark
-color grb256
-colorscheme monokain
+colorscheme solarized
+"colorscheme "atom-dark-256"
+"colorscheme "base16-ocean"
+"colorscheme slate
+"colorscheme "atom-dark"
+"colorscheme seti
+"colorscheme hybrid
+"colorscheme onedark
+"colorscheme "tomorrow-night"
 
+"let base16colorspace=256  " Access colors present in 256 colorspace"
+"let g:solarized_termtrans = 1
 set hlsearch				" highlight search terms
 set list listchars=tab:»·,trail:·	" show hidden tabs and white spaces
 
