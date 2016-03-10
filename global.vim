@@ -24,6 +24,8 @@ colorscheme solarized
 
 "let base16colorspace=256  " Access colors present in 256 colorspace"
 "let g:solarized_termtrans = 1
+
+set number
 set hlsearch				" highlight search terms
 set list listchars=tab:»·,trail:·	" show hidden tabs and white spaces
 
