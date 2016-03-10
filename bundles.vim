@@ -17,7 +17,7 @@ Plugin 'vim-airline/vim-airline-themes'		" status line theme
 Plugin 'tpope/vim-fugitive'			" git wrapper 
 Plugin 'airblade/vim-gitgutter'			" git status
 Plugin 'scrooloose/nerdtree'			" file system explorer
-Plugin 'kien/ctrlp.vim' 			" fuzzy file finder
+Plugin 'ctrlpvim/ctrlp.vim' 			" fuzzy file finder
 Plugin 'editorconfig/editorconfig-vim' 		" editor config
 Plugin 'rking/ag.vim'				" search
 Plugin 'flazz/vim-colorschemes'		 	" color scheme
