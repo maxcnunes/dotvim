@@ -33,9 +33,9 @@ set list listchars=tab:»·,trail:·	" show hidden tabs and white spaces
 """"""""""""""""""""""""""""""
 " Gathers vim files
 """"""""""""""""""""""""""""""
-set backupdir=~/.vim/.backup//
-set directory=~/.vim/.swap//
-set undodir=~/.vim/.undo//
+set backupdir=~/.vim/.backup/
+set directory=~/.vim/.swap/
+set undodir=~/.vim/.undo/
 
 
 """"""""""""""""""""""""""""""
