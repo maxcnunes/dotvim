@@ -14,3 +14,5 @@ VIM Commands
 
 - `"*y`: copy to clipboard
 - `"*p`: paste to clipboard
+
+- `:so ~/.vim/vimrc`: reload vim configuration
