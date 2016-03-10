@@ -12,6 +12,7 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'othree/yajs.vim'	" js highlight theme
 Plugin 'othree/es.next.syntax.vim'	" es7 highlight theme
 Plugin 'scrooloose/syntastic'	" linter
+Plugin 'pmsorhaindo/syntastic-local-eslint.vim'	" use local eslint
 "Plugin 'chriskempson/base16-vim'	" base16 theme
 "Plugin 'trusktr/seti.vim'	" seti theme
 "Plugin 'w0ng/vim-hybrid'	" hybrid theme
