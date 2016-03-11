@@ -9,6 +9,7 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 
+Plugin 'tpope/vim-surround'	" surround
 Plugin 'othree/yajs.vim'	" js highlight theme
 Plugin 'othree/es.next.syntax.vim'	" es7 highlight theme
 Plugin 'scrooloose/syntastic'	" linter
