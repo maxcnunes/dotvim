@@ -28,11 +28,11 @@ Plugin 'editorconfig/editorconfig-vim' 		" editor config
 Plugin 'rking/ag.vim'				" search
 Plugin 'flazz/vim-colorschemes'		 	" color scheme
 Plugin 'Lokaltog/vim-easymotion'		" simple search
-Plugin 'Shutnik/jshint2.vim'			" js syntax validations
+"Plugin 'Shutnik/jshint2.vim'			" js syntax validations
 Plugin 'brettof86/vim-swigjs'			" swig syntax
 Plugin 'gabrielelana/vim-markdown'		" markdown syntax
 Plugin 'terryma/vim-multiple-cursors'		" multiple cursors
-Plugin 'tomasr/molokai'
+"Plugin 'tomasr/molokai'
 
 
 
