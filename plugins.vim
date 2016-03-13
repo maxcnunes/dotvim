@@ -66,7 +66,7 @@ augroup END
 " silver searcher
 """"""""""""""""""""""""""""""
 " Use ag over grep
-let g:agprg="ag\ --nogroup\ --nocolor\ --column"
+let g:agp_rg="ag\ --nogroup\ --nocolor\ --column"
 
 " Use ag in CtrlP for listing files. Lightning fast and respects .gitignore
 let g:ctrlp_user_command = 'ag %s -l --nocolor -g ""'
