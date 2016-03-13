@@ -11,19 +11,13 @@ set termencoding=utf-8
 " Appearance
 """"""""""""""""""""""""""""""
 set t_Co=256 " Explicitly tell vim that the terminal supports 256 colors"
-set background=dark
-colorscheme solarized
-"colorscheme "atom-dark-256"
-"colorscheme "base16-ocean"
-"colorscheme slate
-"colorscheme "atom-dark"
-"colorscheme seti
-"colorscheme hybrid
-"colorscheme onedark
-"colorscheme "tomorrow-night"
+colorscheme onedark
+"colorscheme solarized
 
-"let base16colorspace=256  " Access colors present in 256 colorspace"
-"let g:solarized_termtrans = 1
+let g:airline_theme='onedark'
+let g:onedark_termcolors=16
+set background=dark
+
 
 set number
 set hlsearch				" highlight search terms
