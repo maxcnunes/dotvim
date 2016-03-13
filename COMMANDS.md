@@ -16,3 +16,7 @@ VIM Commands
 - `"*p`: paste to clipboard
 
 - `:so ~/.vim/vimrc`: reload vim configuration
+
+
+- `v` `a` `t` - seleciona uma tag e todo seu conteudo
+- - `v` `i` `t` - seleciona todo o conteudo de uma tag
