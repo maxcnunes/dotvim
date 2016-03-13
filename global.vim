@@ -48,5 +48,7 @@ nmap <C-Q> :q<CR>
 nnoremap <leader>bb :bnext<CR>				" switch to next buffer
 nnoremap <leader>bc :bd<CR>				" close current buffer
 
+nnoremap <leader><esc> :noh<return><esc>		" clean last search
+
 set textwidth=120
 set colorcolumn=+1
